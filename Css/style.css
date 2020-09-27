@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+body{
+    background-color: rebeccapurple;
+    border-color: white;
+    border-style: solid;
+}
+header{
+    background-color: rgb(10, 248, 62);
+    height:100px;
+    margin: 12px;
+    border-color: white;
+    border-style: solid;
+}
+nav{
+    background-color: white;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+}
+.left{
+    width: 60%;
+    float: left;
+    background-color: brown;
+    height: 350px;
+    margin: 10px;
+    border-style: solid;
+    border-color:white;
+    overflow: hidden;
+
+}
+.right{
+    width: 30%;
+    float: right;
+    background-color: brown;
+    height: 350px;
+    margin: 10px;
+    border-style: solid;
+    border-color:white;
+    overflow: hidden;
+
+}
+.header{
+    background-color: yellowgreen;
+    height: 25px;
+    margin: 8px;
+    border-style: solid;
+    border-color:white;
+}
+.article{
+    background-color: turquoise;
+    height: 230px;
+    margin: 12px 8px;
+    border-style: solid;
+    border-color:white;
+    overflow: hidden;
+}
+.article-header{
+    height: 25px;
+    background-color: yellowgreen;
+    margin: 8px;
+    border-style: solid;
+    border-color:white;
+
+}
+.para{
+    height: 25px;
+    background-color: coral;
+    margin: 8px;
+    border-style: solid;
+    border-color:white;
+}
+.para-left{
+    width: 60%;
+    float: left;
+    background-color: coral;
+    height: 35px;
+    margin: 4px;
+    border-style: solid;
+    border-color:white;
+    padding-top: 6px;
+}
+.aside{
+    width: 30%;
+    float: left;
+    background-color: white;
+    height: 35px;
+    margin: 4px  3px 2px 50px;
+    border-style: solid;
+    border-color:black;
+    padding-top: 5px;
+}
+.footer{
+    background-color:white;
+    height: 25px;
+    margin: 8px;
+    border-style: solid;
+    border-color:black;
+    margin-top: 80px;
+}
+.header-right{
+    height: 30px;
+    background-color: chartreuse;
+    border-style: solid;
+    border-color:white;
+    margin: 8px;
+}
+.nav-right{
+    height: 140px;
+    background-color:white;
+    border-style: solid;
+    border-color:black;
+    margin: 8px;
+    padding-top: 100px;
+}
+footer{
+    height: 50px;
+    background-color: white;
+    margin: 400px 8px 8px 8px;
+    border-color: black;
+    border-style: solid;
+    width: 98%;
+    padding-top: 10px;
+}
